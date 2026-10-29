@@ -1,4 +1,10 @@
-## Hi there 👋
+## hi there |˶˙ᵕ˙ )ﾉﾞ
+i am a hobbyist at heart and a TPM by trade, based in the west-coast. current fixations include, but are not limited to...
+- coffee (restoring lever press espresso machines)
+- self-hosting & homelabbing
+- biking (track frame hoarder)
+- cyberdecks (clockwork uconsole) and PKB phones (zinwa Q25 & unihertz t2e)
+- graphic design & mini-prints!
 
 <!--
 **keahiakio/keahiakio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
