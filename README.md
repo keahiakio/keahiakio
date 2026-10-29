@@ -4,6 +4,7 @@ i am a hobbyist at heart and a TPM by trade, based in the west-coast. current fi
 - self-hosting & homelabbing
 - biking (track frame hoarder)
 - cyberdecks (clockwork uconsole) and PKB phones (zinwa Q25 & unihertz t2e)
+<br><img src="https://i.redd.it/ohz60jv3vqph1.jpg" width="300" alt="my current phone">
 - graphic design & mini-prints!
 
 <!--
